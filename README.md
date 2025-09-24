@@ -72,18 +72,19 @@ Note that deliverables will not be associated with the implementation or deliver
 
 ## <a name="support">Support Structures</a>
 
-Each group will be supported by a University project mentor, who will normally be a permanent academic member of staff, who you should expect to meet at least once every two weeks during the main project periods.
+Each group will be supported by a **University project mentor**, who will normally be a permanent academic member of staff, who you should expect to meet at least once every two weeks during the main project periods.
 
-In addition, projects maybe supported by:
+In addition, projects may additionally be supported by:
 
-- a University research mentor(s): these are likely to be postdoctoral research staff with expertise in some or all aspects of the project
+- a **University research mentor(s)**: these are likely to be postdoctoral research staff with expertise in some or all aspects of the project
 
-- a University Research Software Engineer: to support with any software development aspects of your project
+- a **University Research Software Engineer**: to support with any software development aspects of your project
 
-- a EIT project mentor: for projects in collaboration with EIT, a member of EIT research staff who will work alongside the University project mentor in overseeing the project
+- a **EIT project mentor**: for projects in collaboration with EIT, a member of EIT research staff who will work alongside the University project mentor in overseeing the project
  
-- a EIT research mentor(s):for projects in collaboration with EIT, additional members of EIT research staff who will support the project
+- a **EIT research mentor(s)**:for projects in collaboration with EIT, additional members of EIT research staff who will support the project
 
+For EIT-linked projects, you maybe required to spend some (regular) time at EIT during the project.
 
 ## <a name="teamwork">Team work guidance</a>
 
