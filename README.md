@@ -11,12 +11,11 @@ Use the following links to find out more about the group projects:
 | Item | Description |
 | ---- | ----------- |
 | [How will they work?](#how) | Information giving a general overview of the group projects |
+| [Project list](#projects) | List of active and past projects |
 | [Deliverables](#deliverables) | Information about project deliverables |
 | [Assessment](#assessment) | Details of the assessment process |
 | [Support](#support) | Academic support and mentoring |
 | [Team working](#teamwork) | Guidance on ways of working as teams |
-| [Project list](#projects) | List of projects |
-
 
 
 ## <a name="how">How will they work?</a>
@@ -26,6 +25,16 @@ In Michaelmas term, you will focus on background reading and preparation. You wi
 In Hilary term, the group projects will be your full-time occupation. During this period, you will solidify your knowledge base. You would normally be expected to undertake some work to reproduce existing research and examining their properties (both empirically and theoretically). At an appropriate time, you may also begin to build prototypes based on your own ideas to evaluate against existing benchmarks. The details will be specific to your team's plans and advice from mentors.
 
 During the summer months, you will switch focus to your individual rotation projects, but we will ask your individual project supervisors to ensure you have a little time each week to maintain some group project activity. Projects will be presented at the end of summer during September.
+
+
+## <a name="projects">Project List</a>
+
+| Year | Project Title | University Mentor | 
+| ---- | ------------- | ----------------- |
+| 2025/26 | [Multiscale Foundation models](https://github.com/cwcyau/multiscale_foundation) | Christopher Yau | 
+| 2025/26 | [Agent for Experimental Design](https://github.com/cwcyau/agent_experiment) | Alessandro Abate |
+| 2025/26 | [Causal Integration in Foundation Models for Mechanistic Understanding](https://github.com/cwcyau/causal_foundation) | Yarin Gal |
+
 
 
 ## <a name="deliverables">Expected Deliverables</a>
@@ -167,14 +176,5 @@ You should aim to establish a way of working at the beginning of the group proje
   - Tag a final release with clear versioning and usage instructions.
 
 You are also advised to adopt well-defined practices for software development and experimental design and tracking. Seek advice from your academic mentor and research software engineer for the most relevant and applicable approaches for your project.
-
-
-## <a name="projects">Project List</a>
-
-| Year | Project Title | University Mentor | 
-| ---- | ------------- | ----------------- |
-| 2025/26 | [Multiscale Foundation models](https://github.com/cwcyau/multiscale_foundation) | Christopher Yau | 
-| 2025/26 | [Agent for Experimental Design](https://github.com/cwcyau/agent_experiment) | Alessandro Abate |
-| 2025/26 | [Causal Integration in Foundation Models for Mechanistic Understanding](https://github.com/cwcyau/causal_foundation) | Yarin Gal |
 
 
