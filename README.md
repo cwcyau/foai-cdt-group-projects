@@ -74,6 +74,88 @@ In addition, projects maybe supported by:
 
 ## Team work guidance
 
+To make collaboration smooth and effective, please follow these shared practices:
+
+Roles & Responsibilities
+
+At the start, agree on roles (e.g. literature lead, implementation lead, experiments lead, documentation lead).
+
+Roles can shift as the project evolves — revisit periodically.
+
+Communication
+
+Weekly stand-ups (15 min): what was done, what’s next, any blockers.
+
+Use a shared channel (Slack / Teams / Discord / GitHub Discussions) for async updates.
+
+Flag blockers early.
+
+Milestones & Checkpoints
+
+Break work into mini-milestones (literature survey → prototype → experiments → evaluation → write-up).
+
+Assign tasks, deadlines, and acceptance criteria.
+
+Hold milestone reviews before external presentations.
+
+Version Control & Coding Practices
+
+Use Git with a clear branching strategy (e.g. main / feature branches).
+
+Submit pull requests for review before merging.
+
+Enforce basic standards: formatting, linting, documentation, and tests where possible.
+
+Keep setup instructions in README / CONTRIBUTING.
+
+Data, Experiments & Reproducibility
+
+Use environment files (requirements.txt, environment.yml, or Docker) to ensure reproducibility.
+
+Save raw and processed data, random seeds, and logs.
+
+Maintain an experiments log (Markdown / Jupyter / Notion).
+
+Automate pipelines with scripts instead of manual commands.
+
+Documentation & Knowledge Sharing
+
+Maintain shared notes for literature, design decisions, meeting minutes, and references.
+
+Justify major decisions in writing (with trade-offs).
+
+Use diagrams where helpful.
+
+Decision Making & Conflict Resolution
+
+Agree on a decision process (consensus, majority vote, or tie-break by lead).
+
+For disagreements: schedule a short technical debate, weigh pros/cons, involve a mentor if needed.
+
+Always be respectful of others’ time and viewpoints.
+
+Time Management
+
+Build in buffer time for debugging and reviews.
+
+Track progress and adjust priorities if deadlines slip.
+
+Credit & Authorship
+
+Agree early on how credit will be assigned (for reports, presentations, code).
+
+Keep a log of contributions for transparency.
+
+Ensure all contributors are acknowledged.
+
+Sustainability & Legacy
+
+Maintain working versions incrementally.
+
+Before final submission, clean up and document the repo.
+
+Tag a final release with clear versioning and usage instructions.
+
 ## Project List
 
 | Year | Project Title | University Mentor | 
