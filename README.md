@@ -4,7 +4,19 @@ This is a repository for Fundamentals of AI CDT Group Projects
 
 ## General Information
 
+## About
 
+Modern AI research is fast-paced and ever-changing. This means that traditional methods of teaching such as through lecture courses or the use of textbooks are rarely applicable. The aim of the group projects is to enable learning through supported research and practice. In small teams, you will tackle a designated problem. Prior familiarity with the problem is not necessary and we *encourage* you to be part of a team which is looking at something that you have not encountered before - this is about *learning*.
+
+Group projects will run throughout the year with varying levels of time commitment. You will be supported by the CDT Directors and project-specific mentors including from EIT. 
+
+## How will they work?
+
+In Michaelmas term, you will focus on background reading and preparation. You will engage with project mentors to understand the broader context of your problem and the specific literature and background theory to review. The aim is to have a solid knowledge base for the next stage of work and a plan for how the team will progress by the start of Hilary term.
+
+In Hilary term, the group projects will be your full-time occupation. During this period, you will solidify your knowledge base. You would normally be expected to undertake some work to reproduce existing research and examining their properties (both empirically and theoretically). At an appropriate time, you may also begin to build prototypes based on your own ideas to evaluate against existing benchmarks. The details will be specific to your team's plans and advice from mentors.
+
+During the summer months, you will switch focus to your individual rotation projects, but we will ask your individual project supervisors to ensure you have a little time each week to maintain some group project activity. Projects will be presented at the end of summer during September.
 
 ## Expected Deliverables
 
@@ -36,10 +48,10 @@ All reports and presentations will be assessed by the CDT and scored as either *
 
 Groups who demonstrate that they have engaged with the project requirements, shown consistent effort and provided output consistent with the requirements would meet the requirement for a positive grade. 
 
-Example behaviours which might lead to an unsatisfactory grade includes: 
+Example behaviours which might lead to an unsatisfactory grade include: 
 
 - unexplained absence from project work periods,
-- 
+- inability to cooperate as a team,
 - failure to provide deliverables by the required deadlines.
 
 Each group member is also required to complete a personal self-assessment review. This is not graded but is used by the CDT to record your learning and to support the Directors in monitoring your progress and development.
@@ -60,7 +72,7 @@ In addition, projects maybe supported by:
  
 - a EIT research mentor(s):for projects in collaboration with EIT, additional members of EIT research staff who will support the project
 
- 
+## Team work guidance
 
 ## Project List
 
