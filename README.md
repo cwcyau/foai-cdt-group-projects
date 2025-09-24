@@ -6,11 +6,17 @@ Use the following links to find out more about the group projects:
 
 [How will they work?](#how) - information giving a general overview of the group projects
 
-[Deliverables](deliverables.md) - information about project deliverables
+[Deliverables](#deliverables) - information about project deliverables
 
-[Assessment](assessment.md) - details of the assessment process
+[Assessment](#assessment) - details of the assessment process
 
-[Support](support.md)
+[Support](#support) - academic support and mentoring
+
+[Team working](#teamwork) - guidance on ways of working as teams
+
+[Project list](#projects) - list of projects
+
+
 
 ## <a name="how">How will they work?</a>
 
@@ -20,7 +26,7 @@ In Hilary term, the group projects will be your full-time occupation. During thi
 
 During the summer months, you will switch focus to your individual rotation projects, but we will ask your individual project supervisors to ensure you have a little time each week to maintain some group project activity. Projects will be presented at the end of summer during September.
 
-## Expected Deliverables
+## <a name="deliverables">Expected Deliverables</a>
 
 Each group will be expected to fulfil the requirements of three project milestones:
 
@@ -42,7 +48,7 @@ Each group will be expected to fulfil the requirements of three project mileston
 
 Detailed requirements for milestone deliverables will be provided in advance of the deadlines by the CDT.
 
-## Assessment 
+## <a name="assessment">Assessment</a>
 
 Each milestone deliverable will be considered a unit of assessment. 
 
@@ -60,7 +66,7 @@ Each group member is also required to complete a personal self-assessment review
 
 Note that deliverables will not be associated with the implementation or delivery of novel research ideas. Groups are welcome and encouraged to progress to this stage if possible. However, it is important that groups do not rush to produce novel work without rigorous investigation of existing methods and techniques. Group projects are first and foremost a learning opportunity.
 
-## Support Structures 
+## <a name="support">Support Structures</a>
 
 Each group will be supported by a University project mentor, who will normally be a permanent academic member of staff, who you should expect to meet at least once every two weeks during the main project periods.
 
@@ -74,7 +80,7 @@ In addition, projects maybe supported by:
  
 - a EIT research mentor(s):for projects in collaboration with EIT, additional members of EIT research staff who will support the project
 
-## Team work guidance
+## <a name="teamwork">Team work guidance</a>
 
 To make collaboration smooth and effective, please follow these shared practices:
 
@@ -158,7 +164,7 @@ Before final submission, clean up and document the repo.
 
 Tag a final release with clear versioning and usage instructions.
 
-## Project List
+## <a name="projects">Project List</a>
 
 | Year | Project Title | University Mentor | 
 | ---- | ------------- | ----------------- |
