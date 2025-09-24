@@ -1,20 +1,21 @@
 # FoAI CDT Group Projects
 
+## Background
+
 Modern AI research is fast-paced and ever-changing. This means that traditional methods of teaching such as through lecture courses or the use of textbooks are rarely applicable. The aim of the group projects is to enable learning through supported research and practice. In small teams, you will tackle a designated problem. Prior familiarity with the problem is not necessary and we *encourage* you to be part of a team which is looking at something that you have not encountered before - this is about *learning*. Group projects will run throughout the year with varying levels of time commitment. You will be supported by the CDT Directors and project-specific mentors including from EIT. 
+
+## Contents
 
 Use the following links to find out more about the group projects:
 
-[How will they work?](#how) - information giving a general overview of the group projects
-
-[Deliverables](#deliverables) - information about project deliverables
-
-[Assessment](#assessment) - details of the assessment process
-
-[Support](#support) - academic support and mentoring
-
-[Team working](#teamwork) - guidance on ways of working as teams
-
-[Project list](#projects) - list of projects
+| Item | Description |
+| ---- | ----------- |
+| [How will they work?](#how) | Information giving a general overview of the group projects |
+| [Deliverables](#deliverables) | Information about project deliverables |
+| [Assessment](#assessment) | Details of the assessment process |
+| [Support](#support) | Academic support and mentoring |
+| [Team working](#teamwork) | Guidance on ways of working as teams |
+| [Project list](#projects) | List of projects |
 
 
 
@@ -25,6 +26,7 @@ In Michaelmas term, you will focus on background reading and preparation. You wi
 In Hilary term, the group projects will be your full-time occupation. During this period, you will solidify your knowledge base. You would normally be expected to undertake some work to reproduce existing research and examining their properties (both empirically and theoretically). At an appropriate time, you may also begin to build prototypes based on your own ideas to evaluate against existing benchmarks. The details will be specific to your team's plans and advice from mentors.
 
 During the summer months, you will switch focus to your individual rotation projects, but we will ask your individual project supervisors to ensure you have a little time each week to maintain some group project activity. Projects will be presented at the end of summer during September.
+
 
 ## <a name="deliverables">Expected Deliverables</a>
 
@@ -48,6 +50,7 @@ Each group will be expected to fulfil the requirements of three project mileston
 
 Detailed requirements for milestone deliverables will be provided in advance of the deadlines by the CDT.
 
+
 ## <a name="assessment">Assessment</a>
 
 Each milestone deliverable will be considered a unit of assessment. 
@@ -66,6 +69,7 @@ Each group member is also required to complete a personal self-assessment review
 
 Note that deliverables will not be associated with the implementation or delivery of novel research ideas. Groups are welcome and encouraged to progress to this stage if possible. However, it is important that groups do not rush to produce novel work without rigorous investigation of existing methods and techniques. Group projects are first and foremost a learning opportunity.
 
+
 ## <a name="support">Support Structures</a>
 
 Each group will be supported by a University project mentor, who will normally be a permanent academic member of staff, who you should expect to meet at least once every two weeks during the main project periods.
@@ -80,33 +84,75 @@ In addition, projects maybe supported by:
  
 - a EIT research mentor(s):for projects in collaboration with EIT, additional members of EIT research staff who will support the project
 
+
 ## <a name="teamwork">Team work guidance</a>
 
-To make collaboration smooth and effective, please follow these shared practices:
+To make collaboration smooth and effective, you are advised to consider and adopt these shared practices:
 
-Roles & Responsibilities
+- Roles & Responsibilities
 
-At the start, agree on roles (e.g. literature lead, implementation lead, experiments lead, documentation lead).
+  - At the start, agree on roles (e.g. literature lead, implementation lead, experiments lead, documentation lead).
 
-Roles can shift as the project evolves — revisit periodically.
+  - Roles can shift as the project evolves — revisit periodically.
 
-Communication
+- Communication
 
-Weekly stand-ups (15 min): what was done, what’s next, any blockers.
+  - Weekly stand-ups (15 min): what was done, what’s next, any blockers.
 
-Use a shared channel (Slack / Teams / Discord / GitHub Discussions) for async updates.
+  - Use a shared channel (Slack / Teams / Discord / GitHub Discussions) for async updates.
 
-Flag blockers early.
+  - Flag blockers early.
 
-Milestones & Checkpoints
+- Milestones & Checkpoints
 
-Break work into mini-milestones (literature survey → prototype → experiments → evaluation → write-up).
+  - Break work into mini-milestones (literature survey → prototype → experiments → evaluation → write-up).
 
-Assign tasks, deadlines, and acceptance criteria.
+  - Assign tasks, deadlines, and acceptance criteria.
 
-Hold milestone reviews before external presentations.
+  - Hold milestone reviews before external presentations.
 
-Version Control & Coding Practices
+- Documentation & Knowledge Sharing
+
+  - Maintain shared notes for literature, design decisions, meeting minutes, and references.
+
+  - Justify major decisions in writing (with trade-offs).
+
+  - Use diagrams where helpful.
+
+- Decision Making & Conflict Resolution
+
+  - Agree on a decision process (consensus, majority vote, or tie-break by lead).
+
+  - For disagreements: schedule a short technical debate, weigh pros/cons, involve a mentor if needed.
+
+  - Always be respectful of others’ time and viewpoints.
+
+- Time Management
+
+  - Build in buffer time for debugging and reviews.
+
+  - Track progress and adjust priorities if deadlines slip.
+
+- Credit & Authorship
+
+  - Agree early on how credit will be assigned (for reports, presentations, code).
+
+  - Keep a log of contributions for transparency.
+
+  - Ensure all contributors are acknowledged.
+
+- Sustainability & Legacy
+
+  - Maintain working versions incrementally.
+
+  - Before final submission, clean up and document the repo.
+
+  - Tag a final release with clear versioning and usage instructions.
+
+
+
+
+- Version Control & Coding Practices
 
 Use Git with a clear branching strategy (e.g. main / feature branches).
 
@@ -126,43 +172,6 @@ Maintain an experiments log (Markdown / Jupyter / Notion).
 
 Automate pipelines with scripts instead of manual commands.
 
-Documentation & Knowledge Sharing
-
-Maintain shared notes for literature, design decisions, meeting minutes, and references.
-
-Justify major decisions in writing (with trade-offs).
-
-Use diagrams where helpful.
-
-Decision Making & Conflict Resolution
-
-Agree on a decision process (consensus, majority vote, or tie-break by lead).
-
-For disagreements: schedule a short technical debate, weigh pros/cons, involve a mentor if needed.
-
-Always be respectful of others’ time and viewpoints.
-
-Time Management
-
-Build in buffer time for debugging and reviews.
-
-Track progress and adjust priorities if deadlines slip.
-
-Credit & Authorship
-
-Agree early on how credit will be assigned (for reports, presentations, code).
-
-Keep a log of contributions for transparency.
-
-Ensure all contributors are acknowledged.
-
-Sustainability & Legacy
-
-Maintain working versions incrementally.
-
-Before final submission, clean up and document the repo.
-
-Tag a final release with clear versioning and usage instructions.
 
 ## <a name="projects">Project List</a>
 
