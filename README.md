@@ -62,7 +62,7 @@ Groups who demonstrate that they have engaged with the project requirements, sho
 Example behaviours which might lead to an unsatisfactory grade include: 
 
 - unexplained absence from project work periods,
-- inability to cooperate as a team,
+- inability to adhere to core values (see <a href="teamwork">Team Work</a> section)
 - failure to provide deliverables by the required deadlines.
 
 Each group member is also required to complete a personal self-assessment review. This is not graded but is used by the CDT to record your learning and to support the Directors in monitoring your progress and development.
@@ -87,7 +87,23 @@ In addition, projects maybe supported by:
 
 ## <a name="teamwork">Team work guidance</a>
 
-To make collaboration smooth and effective, you are advised to consider and adopt these shared practices:
+### Core values
+
+We expect all teams to be founded upon these core values:
+
+- **Respect** — listen actively, value different viewpoints, and give constructive feedback.
+
+- **Honesty** — be transparent about progress, challenges, and limitations.
+
+- **Accountability** — take ownership of tasks, follow through on commitments, and communicate early if plans slip.
+
+- **Inclusivity** — ensure everyone has a voice in discussions and decisions.
+
+- **Support** — help each other grow, share knowledge, and step in when teammates face blockers.
+
+## Ways of working
+
+You should aim to establish a way of working at the beginning of the group project.  To make collaboration smooth and effective, you are advised to consider and adopt these shared practices:
 
 - Roles & Responsibilities
 
@@ -149,28 +165,7 @@ To make collaboration smooth and effective, you are advised to consider and adop
 
   - Tag a final release with clear versioning and usage instructions.
 
-
-
-
-- Version Control & Coding Practices
-
-Use Git with a clear branching strategy (e.g. main / feature branches).
-
-Submit pull requests for review before merging.
-
-Enforce basic standards: formatting, linting, documentation, and tests where possible.
-
-Keep setup instructions in README / CONTRIBUTING.
-
-Data, Experiments & Reproducibility
-
-Use environment files (requirements.txt, environment.yml, or Docker) to ensure reproducibility.
-
-Save raw and processed data, random seeds, and logs.
-
-Maintain an experiments log (Markdown / Jupyter / Notion).
-
-Automate pipelines with scripts instead of manual commands.
+You are also advised to adopt well-defined practices for software development and experimental design and tracking. Seek advice from your academic mentor and research software engineer for the most relevant and applicable approaches for your project.
 
 
 ## <a name="projects">Project List</a>
