@@ -1,16 +1,18 @@
 # FoAI CDT Group Projects
 
-This is a repository for Fundamentals of AI CDT Group Projects
+Modern AI research is fast-paced and ever-changing. This means that traditional methods of teaching such as through lecture courses or the use of textbooks are rarely applicable. The aim of the group projects is to enable learning through supported research and practice. In small teams, you will tackle a designated problem. Prior familiarity with the problem is not necessary and we *encourage* you to be part of a team which is looking at something that you have not encountered before - this is about *learning*. Group projects will run throughout the year with varying levels of time commitment. You will be supported by the CDT Directors and project-specific mentors including from EIT. 
 
-## General Information
+Use the following links to find out more about the group projects:
 
-## About
+[How will they work?](how) - information giving a general overview of the group projects
 
-Modern AI research is fast-paced and ever-changing. This means that traditional methods of teaching such as through lecture courses or the use of textbooks are rarely applicable. The aim of the group projects is to enable learning through supported research and practice. In small teams, you will tackle a designated problem. Prior familiarity with the problem is not necessary and we *encourage* you to be part of a team which is looking at something that you have not encountered before - this is about *learning*.
+[Deliverables](deliverables.md) - information about project deliverables
 
-Group projects will run throughout the year with varying levels of time commitment. You will be supported by the CDT Directors and project-specific mentors including from EIT. 
+[Assessment](assessment.md) - details of the assessment process
 
-## How will they work?
+[Support](support.md)
+
+## <a name="how">How will they work?</a>
 
 In Michaelmas term, you will focus on background reading and preparation. You will engage with project mentors to understand the broader context of your problem and the specific literature and background theory to review. The aim is to have a solid knowledge base for the next stage of work and a plan for how the team will progress by the start of Hilary term.
 
