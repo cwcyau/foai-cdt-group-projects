@@ -4,7 +4,7 @@ Modern AI research is fast-paced and ever-changing. This means that traditional 
 
 Use the following links to find out more about the group projects:
 
-[How will they work?](how) - information giving a general overview of the group projects
+[How will they work?](#how) - information giving a general overview of the group projects
 
 [Deliverables](deliverables.md) - information about project deliverables
 
