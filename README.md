@@ -33,7 +33,7 @@ During the summer months, you will switch focus to your individual rotation proj
 | ---- | ------------- | ----------------- |
 | 2025/26 | [Multiscale Foundation models](https://github.com/cwcyau/multiscale_foundation) | Christopher Yau | 
 | 2025/26 | [Agent for Experimental Design](https://github.com/cwcyau/agent_experiment) | Alessandro Abate |
-| 2025/26 | [Causal Integration in Foundation Models for Mechanistic Understanding](https://github.com/cwcyau/causal_foundation) | Yarin Gal |
+| 2025/26 | [Causal Integration in Foundation Models for Mechanistic Understanding](https://github.com/cwcyau/causal_foundation) | tbc |
 
 
 
