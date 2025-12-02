@@ -43,7 +43,7 @@ Each group will be expected to fulfil the requirements of three project mileston
 
 |Milestone|Approximate Timing (a)|Deliverable (b)|
 |---------|------------------|-----------|
-|1|Start of Hilary|[Literature Review](lit-review.md)|
+|1|19 January 2026|[Literature Review](lit-review.md)|
 |2|End of Hilary|Project Progress Report|
 |3|End of Summer|Project Presentation and Final Report|
 
